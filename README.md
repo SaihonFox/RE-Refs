@@ -5,7 +5,7 @@
 ### [dnSpy unity mono](https://github.com/dnSpy/dnSpy-Unity-mono)
 ### [Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
 ### [ILSpy](https://github.com/icsharpcode/ILSpy)
-### [Jaxd](https://github.com/skylot/jadx)
+### [Jadx](https://github.com/skylot/jadx)
 ### []()
 ### []()
 ### []()
